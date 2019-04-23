@@ -1,0 +1,7 @@
+1) Construi 3 modulos :
+	convertidor_hexa.py : Modulo el cual, solo contiene la funcion que me convierte un decimal a un hexadecimal.
+
+	test_convertidor_hexa.py: Modulo, que ejecuta los tests correspondientes para verificar el correcto funcionamiento del modulo convertidor_hexa.py
+
+	interfaz_hexa.py: Modulo cuyo objetivo es pedir un input al usuario y imprimir el resultado del modulo convertidor_hexa.py, ademas de actuar como intermediador con los 2  anteriores modulos.
+
